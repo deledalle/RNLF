@@ -8,6 +8,7 @@ This is the source code and tools corresponding to the Automatic noise estimatio
 
 > Sutour, C., Deledalle, C.-A. & Aujol, J.-F. 
 > "Estimation of the noise level function based on a non-parametric detection of homogeneous image regions."
+> SIAM Journal on Imaging Sciences, vol. 8, no. 4, pp. 2622-2661, 2015
 
 ## Installation
 
